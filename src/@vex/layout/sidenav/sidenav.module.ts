@@ -13,7 +13,7 @@ import { SearchModalComponent } from '../../components/search-modal/search-modal
 
 
 @NgModule({
-  declarations: [SidenavComponent, SearchModalComponent],
+  declarations: [SidenavComponent],
   imports: [
     CommonModule,
     MatToolbarModule,
