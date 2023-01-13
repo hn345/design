@@ -4,10 +4,6 @@
 
 export const environment = {
   production: false,
-
-  design: {
-    url:"https://hn345.github.io/hanna-design/"
-  }
 };
 
 /*
